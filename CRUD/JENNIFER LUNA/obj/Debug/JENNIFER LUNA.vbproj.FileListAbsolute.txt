@@ -1,0 +1,14 @@
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\bin\Debug\JENNIFER LUNA.exe.config
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\bin\Debug\JENNIFER LUNA.exe
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\bin\Debug\JENNIFER LUNA.pdb
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\bin\Debug\JENNIFER LUNA.xml
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER LUNA.vbprojResolveAssemblyReference.cache
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER_LUNA.Form1.resources
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER_LUNA.Resources.resources
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER LUNA.vbproj.GenerateResource.Cache
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER LUNA.exe
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER LUNA.xml
+c:\users\pc06lab4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER LUNA.pdb
+C:\Users\PC06LAB4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER_LUNA.ADMINISTRADOR.resources
+C:\Users\PC06LAB4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER_LUNA.ROLL.resources
+C:\Users\PC06LAB4\documents\visual studio 2015\Projects\JENNIFER LUNA\JENNIFER LUNA\obj\Debug\JENNIFER_LUNA.Form2.resources
